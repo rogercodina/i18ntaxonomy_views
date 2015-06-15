@@ -1,0 +1,8 @@
+name = Taxonomy localization for views
+description = Localizes taxonomy terms in views.
+package = tools
+core = 7.x
+dependencies[] = views
+dependencies[] = i18n
+version = "7.x-1.0"
+project = "i18ntaxonomy_views"
